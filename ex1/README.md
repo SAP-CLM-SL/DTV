@@ -6,7 +6,7 @@
 
 Login to the ECC source system by using the information shared with you.
 
-**Username:** `CONV_DTV_01`  
+**Username:** `CONV_DTV_XX`  
 **Password:** `Welcome123`  
 **Client:** `100`
 
